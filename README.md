@@ -4,4 +4,4 @@
 - CSS
 - JS
 #####
--Link da Page: 
+-Link da Page: https://ivanclourenco.github.io/02-exercicio-js-intermediario/
